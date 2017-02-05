@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Plansza:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plansza_jar</output-path>
+    <root id="archive" name="Plansza.jar">
+      <element id="module-output" name="Plansza" />
+    </root>
+  </artifact>
+</component>
